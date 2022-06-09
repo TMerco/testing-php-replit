@@ -14,5 +14,4 @@ class Calculator
 	if($b==0){return "ERR";}
    	 return $a / $b;
   }
-
 }
